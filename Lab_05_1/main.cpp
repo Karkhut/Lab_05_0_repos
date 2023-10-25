@@ -21,5 +21,5 @@ int main()
 
 double g(const double a, const double b) // визначення
 {
-	return (a * a) + (a + b) + (b * b);
+	return (a * a) + (a * b) + (b * b);
 }
